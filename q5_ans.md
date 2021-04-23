@@ -1,1 +1,3 @@
-# ES654_A3_18110136
+# Q6)
+Implementation only results in q.no 6
+
