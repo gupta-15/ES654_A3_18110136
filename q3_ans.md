@@ -4,19 +4,19 @@ Acuracy on the digits dataset = 0.8664440734557596
 
 **c)**
 
-[[43, 0, 0, 0, 0, 0, 0, 0, 0, 1],
- [0, 33, 0, 1, 0, 0, 2, 0, 1, 0],
- [0, 0, 44, 0, 0, 0, 0, 0, 0, 0],
- [0, 1, 0, 34, 0, 0, 0, 0, 1, 2],
- [1, 0, 0, 0, 42, 0, 0, 1, 0, 0], 
- [0, 0, 0, 3, 0, 44, 0, 0, 2, 2], 
- [0, 0, 0, 0, 0, 1, 44, 0, 0, 0],
- [0, 0, 0, 3, 0, 0, 0, 40, 0, 0], 
- [0, 4, 0, 5, 3, 0, 0, 3, 40, 3],
+[[43, 0, 0, 0, 0, 0, 0, 0, 0, 1],<br/>
+ [0, 33, 0, 1, 0, 0, 2, 0, 1, 0],<br/>
+ [0, 0, 44, 0, 0, 0, 0, 0, 0, 0],<br/>
+ [0, 1, 0, 34, 0, 0, 0, 0, 1, 2],<br/>
+ [1, 0, 0, 0, 42, 0, 0, 1, 0, 0],<br/> 
+ [0, 0, 0, 3, 0, 44, 0, 0, 2, 2],<br/>
+ [0, 0, 0, 0, 0, 1, 44, 0, 0, 0],<br/>
+ [0, 0, 0, 3, 0, 0, 0, 40, 0, 0],<br/> 
+ [0, 4, 0, 5, 3, 0, 0, 3, 40, 3],<br/>
  [0, 8, 0, 0, 0, 0, 0, 0, 0, 37]]
- 
- Digits 9 is getting confused with 1 and digit 8 is getting predicted accurately the least number of times.
- Digit 2 is the most easiest to predict.
+ <br/>
+ Digits 9 is getting confused with 1 and digit 8 is getting predicted accurately the least number of times.<br/>
+ Digit 2 is the most easiest to predict.<br/>
  Overall Accuracy = 0.8930957683741648
 
 **d)**
